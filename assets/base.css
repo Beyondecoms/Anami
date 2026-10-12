@@ -2300,7 +2300,7 @@ main > .shopify-section:first-child .section:not(.disable-section-top-offset) {
   background: transparent !important;
   color: #333333 !important;
   width: 36px !important;
-  height: 40px !important;
+  height: 40px !important;  
 }
 
 /* Add to Cart Pill Button */
